@@ -1,1 +1,2 @@
 echo "today day is friday"
+echo "git sessions"
